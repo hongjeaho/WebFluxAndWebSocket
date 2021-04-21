@@ -1,0 +1,3 @@
+social:
+  google:
+    token-validation-url: https://www.googleapis.com/oauth2/v3/tokeninfo?id_token
